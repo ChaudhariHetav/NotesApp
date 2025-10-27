@@ -105,6 +105,7 @@ Tech Stack
 
 
 Project Structure
+
 NotesApp/
 │
 ├── Controllers/
@@ -133,6 +134,7 @@ NotesApp/
 ├── appsettings.json
 ├── Program.cs
 └── README.md
+
 
 
 
