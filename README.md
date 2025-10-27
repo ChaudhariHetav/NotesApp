@@ -104,36 +104,7 @@ Tech Stack
 - Language: C#
 
 
-Project Structure
 
-NotesApp/
-│
-├── Controllers/
-│   └── NotesController.cs
-│
-├── Models/
-│   └── Note.cs
-│
-├── Data/
-│   └── ApplicationDbContext.cs
-│
-├── Views/
-│   └── Notes/
-│       ├── Index.cshtml
-│       ├── Create.cshtml
-│       ├── Edit.cshtml
-│       ├── Delete.cshtml
-│       └── Details.cshtml
-│
-├── wwwroot/
-│   ├── css/
-│   │   └── site.css
-│   └── lib/
-│       └── bootstrap/
-│
-├── appsettings.json
-├── Program.cs
-└── README.md
 
 
 
